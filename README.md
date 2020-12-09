@@ -1,5 +1,7 @@
 # Full Stack Twitter Clone
 
+*Vinh Nguyen*
+
 Create a clone of Twitter using the MERN Stack
 * MongoDB
 * Express
@@ -25,3 +27,7 @@ MongoDB is where we are storing our data models
 * tweet
 
 ## Frontend
+
+`npx create-react-app` : intializes new react app
+
+Axios: allows sending requests to external API
