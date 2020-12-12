@@ -19,7 +19,7 @@ function Widgets() {
                 <h2> What's Happening </h2>
 
                 <TwitterTweetEmbed tweetId={"1337456275605647363"} />
-
+                <TwitterTweetEmbed tweetId={"1337031354559524864"} />
                 <TwitterTimelineEmbed
                 sourceType="profile"
                 screenName="vinhthekid"

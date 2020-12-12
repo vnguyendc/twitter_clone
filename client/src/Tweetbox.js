@@ -16,7 +16,7 @@ function Tweetbox() {
       verified: true,
       text: tweetMessage,
       image: tweetImage,
-      avatar: "",
+      avatar: "https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-1/p320x320/120134165_3937554602939469_9113452377263565864_n.jpg?_nc_cat=102&ccb=2&_nc_sid=7206a8&_nc_ohc=DPVls_D_4a8AX-YjG7G&_nc_ht=scontent-lax3-1.xx&tp=6&oh=e329e9d8b36177099e50b4e1e7d55f45&oe=5FF91D9E",
       timestamp: ""
     })
 
@@ -28,7 +28,7 @@ function Tweetbox() {
     <div className="tweetbox">
       <form>
         <div className="tweetbox_input">
-          <Avatar src="" />
+          <Avatar src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-1/p320x320/120134165_3937554602939469_9113452377263565864_n.jpg?_nc_cat=102&ccb=2&_nc_sid=7206a8&_nc_ohc=DPVls_D_4a8AX-YjG7G&_nc_ht=scontent-lax3-1.xx&tp=6&oh=e329e9d8b36177099e50b4e1e7d55f45&oe=5FF91D9E" />
           <input
           onChange={e => setTweetMessage(e.target.value)}
           value={tweetMessage}

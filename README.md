@@ -13,10 +13,11 @@ Vinh Nguyen
 
 ## FireStore
 
-Storing posts in FireStore
+Reading and Writing tweets in FireStore
 
 ## Functions
 
 * Post a Tweet with an image
 * View a highlight
 * View tweets by Vinh
+* Read tweets
