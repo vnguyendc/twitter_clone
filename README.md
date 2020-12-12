@@ -1,5 +1,7 @@
 # Twitter Clone
 
+View the app: https://twitter-clone-5656.herokuapp.com/
+
 Vinh Nguyen
 
 ## Stack
