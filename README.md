@@ -1,33 +1,20 @@
-# Full Stack Twitter Clone
+# Twitter Clone
 
-*Vinh Nguyen*
+Vinh Nguyen
 
-Create a clone of Twitter using the MERN Stack
-* MongoDB
-* Express
-* ReactJS
-* Node
+## Stack
 
-## Backend
+* Material UI
+* Firebase Firestore
+* CSS
+* React
 
-We are using Javascript to implement the functionality of our application.
+## FireStore
 
-We use `npm` to install and manage packages.
+Storing posts in FireStore
 
-We use `node` to run our app.
+## Functions
 
-We use Postman to see how our app is running, sending, and returning requests.
-
-Express is sending and getting data to and from our server
-
-MongoDB is where we are storing our data models
-
-**Data Models**:
-* user
-* tweet
-
-## Frontend
-
-`npx create-react-app` : intializes new react app
-
-Axios: allows sending requests to external API
+* Post a Tweet with an image
+* View a highlight
+* View tweets by Vinh

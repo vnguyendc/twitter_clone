@@ -1,0 +1,28 @@
+.sidebarProfile {
+    padding: 10px;
+    display: flex;
+    margin-top: auto;
+    align-items: center;
+}
+
+.sidebarProfile:hover {
+    cursor: pointer;
+    background-color: #e8f5fe;
+    border-radius: 30px;
+    /* color: var(--twitter-color); */
+    transition: color 100ms ease-out;
+}
+
+.sidebarProfile > MoreHorizonIcon {
+    margin-left: auto !important;
+    border-radius: 30px;
+}
+
+.sidebarProfile__text {
+    border: 10px;
+    padding: 5px;
+}
+
+.sidebarProfile__more {
+    margin-left: auto !important;
+}
